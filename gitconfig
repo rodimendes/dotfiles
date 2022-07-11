@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodimendes@gmail.com
+	name = Rodrigo Pinto
